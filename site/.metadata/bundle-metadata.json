@@ -1,0 +1,222 @@
+{
+  "bundles": {
+    "my/about": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/about/v/0_0_1/s/af1b9f2b9417bdd257eba339354b0947c96c4ca6/bundle_my_about.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "my/announcements": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/announcements/v/0_0_1/s/170f5a37005831fe78db9aac471685e9fcbcc035/bundle_my_announcements.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "my/membership": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/membership/v/0_0_1/s/c8a1ca5efa2596d3d02ff4abd38bf70a80188756/bundle_my_membership.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "my/newsletterParent": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/newsletterParent/v/0_0_1/s/d88149db6dd6c0a72a0d02ddaa0750c41600c3bf/bundle_my_newsletterParent.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "my/news": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/news/v/0_0_1/s/70ad405530616d17a425ab5d240736835da9d466/bundle_my_news.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesUtilityRtl": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_18_7-alpha/s/1fe9139de487e8a7365e2f3ca9c3f9cf11578781/bundle_lightning_iconSvgTemplatesUtilityRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesActionRtl": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_18_7-alpha/s/32b4904f98508098de904c4bb4acd1bfdf2392d0/bundle_lightning_iconSvgTemplatesActionRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesStandardRtl": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_18_7-alpha/s/664ab84f6bf50afb7c7f9177674bbad67cbf645c/bundle_lightning_iconSvgTemplatesStandardRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesDoctypeRtl": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_18_7-alpha/s/784611a3426612f9bc36cabdbe9484a9067e798d/bundle_lightning_iconSvgTemplatesDoctypeRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesCustomRtl": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_18_7-alpha/s/8340ae2b717025e4b44ec95d0685cebf16a5e099/bundle_lightning_iconSvgTemplatesCustomRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesUtility": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_18_7-alpha/s/082e390306ec215f4a50b64a11b09dbebf04ea33/bundle_lightning_iconSvgTemplatesUtility.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesAction": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_18_7-alpha/s/b6662539c1c7433252abfd95fe829ec0354da842/bundle_lightning_iconSvgTemplatesAction.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesStandard": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_18_7-alpha/s/18ae96f878da0f11a29668be7abb8de97c442ba2/bundle_lightning_iconSvgTemplatesStandard.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesDoctype": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_18_7-alpha/s/7afa029ce05896a458fa556e2ef8aaf665b2cb47/bundle_lightning_iconSvgTemplatesDoctype.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lightning/iconSvgTemplatesCustom": {
+      "version": "1.18.7-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_18_7-alpha/s/f7a00b1b98fa6d8ba1ae3ad56e7c3a41b60b03cf/bundle_lightning_iconSvgTemplatesCustom.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "lwc": {
+      "version": "2.38.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/2_38_1/s/183b29ac1be89ec47e9ba9b34652a5cce805de96/bundle_lwc.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "my/home": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/home/v/0_0_1/s/7aea559c910f9960cc4732c62986ef8287d5297a/bundle_my_home.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1",
+        "lwr/esmLoader/v/0_9_4"
+      ]
+    },
+    "my/eventParent": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/eventParent/v/0_0_1/s/43d0845294567c37d0747f427f3b002e484fec5e/bundle_my_eventParent.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1",
+        "lwr/esmLoader/v/0_9_4"
+      ]
+    },
+    "my/faqs": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/faqs/v/0_0_1/s/e69b8e2aad4bbce6406e09364eafb175318b37f7/bundle_my_faqs.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1",
+        "lwr/esmLoader/v/0_9_4"
+      ]
+    },
+    "my/contact": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/contact/v/0_0_1/s/8c4b4e20ea3cd7092b24bcd24ac310d4c767c07a/bundle_my_contact.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1",
+        "lwr/esmLoader/v/0_9_4"
+      ]
+    },
+    "my/resources": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/resources/v/0_0_1/s/3c6f5b2fe3a058ee494162aeddbfad6dba02276b/bundle_my_resources.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1",
+        "lwr/esmLoader/v/0_9_4"
+      ]
+    },
+    "my/hotspotParent": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/my/hotspotParent/v/0_0_1/s/a25b6e1126dfafa5675992fa1833812488040226/bundle_my_hotspotParent.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1",
+        "lwr/esmLoader/v/0_9_4"
+      ]
+    },
+    "lwr/esmLoader": {
+      "version": "0.9.4",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_9_4/s/0032007273aea150c57f04b57ecc8789367e9a40/bundle_lwr_esmLoader.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "example/app": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/f3832f2f53a8ee8195bb0f9bb0d16e445c972bfe/bundle_example_app.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader/v/0_9_4",
+        "lwc/v/2_38_1"
+      ]
+    },
+    "@lwrjs/app-service/home/module/esm": {
+      "version": "0.9.4",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/home/module/esm/v/0_9_4/s/8302e55e51b15794aa26ab4dc1c869a72c20a881/bundle_@lwrjs_app-service_home_module_esm.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader/v/0_9_4",
+        "@lwc/synthetic-shadow/v/2_50_0",
+        "lwr/profiler/v/0_9_4",
+        "lwc/v/2_38_1"
+      ]
+    },
+    "@lwc/synthetic-shadow": {
+      "version": "2.50.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/2_50_0/s/3bff3d43b213a7b9b702108ca28f62321650d242/bundle_@lwc_synthetic-shadow.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "lwr/profiler": {
+      "version": "0.9.4",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_9_4/s/3a034af4cbb873794714c16d9d8686cb2190dc95/bundle_lwr_profiler.js",
+      "includedModules": [],
+      "imports": []
+    }
+  }
+}
