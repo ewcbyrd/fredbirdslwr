@@ -1,0 +1,25 @@
+.main {
+    background-color: white;
+}
+.center {
+    text-align: center;
+}
+.header {
+    background-color: #1589ee;
+    font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+    color: white;
+}
+.header1 {
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: 'Poppins';
+}
+.header2 {
+    font-size: 20px;
+    font-family: 'Playfair Display';
+    letter-spacing: 5px;
+}
+
+.slds-context-bar {
+    height: 3.5rem;
+}

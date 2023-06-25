@@ -1,0 +1,20 @@
+.main {
+    background-color: white;
+}
+
+.opening {
+    font-size: 1rem;
+}
+
+.slds-carousel__panel.panel-hide{
+    display: none;
+}
+
+.slds-carousel__panel img{
+    max-height: 60vh !important;
+}
+
+.ebird {
+    width: 178px;
+    height: 85px;
+}
