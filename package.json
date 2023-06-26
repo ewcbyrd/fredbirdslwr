@@ -12,7 +12,8 @@
     "build:prod-compat": "lwr build --clean --mode prod-compat",
     "start": "lwr start",
     "stage": "yarn build && yarn start",
-    "stage:prod-compat": "yarn build:prod-compat && yarn start"
+    "stage:prod-compat": "yarn build:prod-compat && yarn start",
+    "deploy": "gh-pages -d site"
   },
   "dependencies": {
     "@lwc/synthetic-shadow": "^2.50.0",
@@ -27,5 +28,10 @@
   },
   "volta": {
     "node": "16.19.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
+  ,
+  "homepage": "https://ewcbyrd.github.io/fredbirdslwr/"
 }
